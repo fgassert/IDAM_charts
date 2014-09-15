@@ -1,0 +1,3 @@
+#!/bin/bash
+
+../makechart.py -c ameoba1.cfg -d maji.csv -s maji

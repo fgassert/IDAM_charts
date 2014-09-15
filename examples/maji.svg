@@ -1,0 +1,341 @@
+<?xml version="1.0" standalone="no"?>
+    <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" >
+    
+<svg width="100%" height="100%" viewBox="0 0 2350 1000" preserveAspectRatio="xMidYMid meet"  version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<g  >
+		<svg width="1000" height="1000" viewBox="0 0 1000 1000" preserveAspectRatio="xMidYMid meet"  version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">			<text x="500" y="500" font-family="Arial" font-size="36" fill="black" style="text-anchor: middle; dominant-baseline: middle">Positive</text>
+			<path d="M 653.268778065,523.101551257 L 760.402548069,539.249368904 A 263.343881645,263.343881645 0 0,0 760.402548069,460.750631096 L 653.268778065,476.898448743 A 155,155 0 0,1 653.268778065,523.101551257" stroke="none" stroke-width="1" fill="rgb(183,222,232)" fill-opacity="1.0" />
+			<path d="M 653.268778065,476.898448743 L 895.53233049,440.38309353 A 400.0,400.0 0 0,0 860.387547161,326.446504353 L 639.650174525,432.748020437 A 155,155 0 0,1 653.268778065,476.898448743" stroke="none" stroke-width="1" fill="rgb(183,222,232)" fill-opacity="1.0" />
+			<path d="M 639.650174525,432.748020437 L 639.650174525,432.748020437 A 155,155 0 0,0 613.623040134,394.573225646 L 613.623040134,394.573225646 A 155,155 0 0,1 639.650174525,432.748020437" stroke="none" stroke-width="1" fill="rgb(183,222,232)" fill-opacity="1.0" />
+			<path d="M 613.623040134,394.573225646 L 793.220748732,227.930904892 A 400.0,400.0 0 0,0 700.0,153.589838486 L 577.5,365.766062413 A 155,155 0 0,1 613.623040134,394.573225646" stroke="none" stroke-width="1" fill="rgb(183,222,232)" fill-opacity="1.0" />
+			<path d="M 577.5,365.766062413 L 700.0,153.589838486 A 400.0,400.0 0 0,0 589.008373583,110.028835127 L 534.490744763,348.886173612 A 155,155 0 0,1 577.5,365.766062413" stroke="none" stroke-width="1" fill="rgb(183,222,232)" fill-opacity="1.0" />
+			<path d="M 534.490744763,348.886173612 L 575.353815674,169.853362181 A 338.636973764,338.636973764 0 0,0 474.693627259,162.309923897 L 488.416835494,345.433411437 A 155,155 0 0,1 534.490744763,348.886173612" stroke="none" stroke-width="1" fill="rgb(183,222,232)" fill-opacity="1.0" />
+			<path d="M 488.416835494,345.433411437 L 474.693627259,162.309923897 A 338.636973764,338.636973764 0 0,0 376.282021117,184.771730803 L 443.372141223,355.71456896 A 155,155 0 0,1 488.416835494,345.433411437" stroke="none" stroke-width="1" fill="rgb(183,222,232)" fill-opacity="1.0" />
+			<path d="M 443.372141223,355.71456896 L 403.789676519,254.86009371 A 263.343881645,263.343881645 0 0,0 335.807775412,294.109462614 L 403.359080712,378.816120217 A 155,155 0 0,1 443.372141223,355.71456896" stroke="none" stroke-width="1" fill="rgb(183,222,232)" fill-opacity="1.0" />
+			<path d="M 403.359080712,378.816120217 L 403.359080712,378.816120217 A 155,155 0 0,0 371.932989981,412.685391 L 371.932989981,412.685391 A 155,155 0 0,1 403.359080712,378.816120217" stroke="none" stroke-width="1" fill="rgb(183,222,232)" fill-opacity="1.0" />
+			<path d="M 371.932989981,412.685391 L 371.932989981,412.685391 A 155,155 0 0,0 351.886215103,454.312947966 L 351.886215103,454.312947966 A 155,155 0 0,1 371.932989981,412.685391" stroke="none" stroke-width="1" fill="rgb(183,222,232)" fill-opacity="1.0" />
+			<path d="M 351.886215103,454.312947966 L 117.770877686,382.097930236 A 400.0,400.0 0 0,0 100.0,500.0 L 345.0,500.0 A 155,155 0 0,1 351.886215103,454.312947966" stroke="none" stroke-width="1" fill="rgb(183,222,232)" fill-opacity="1.0" />
+			<path d="M 345.0,500.0 L 236.656118355,500.0 A 263.343881645,263.343881645 0 0,0 248.35574813,577.621971764 L 351.886215103,545.687052034 A 155,155 0 0,1 345.0,500.0" stroke="none" stroke-width="1" fill="rgb(183,222,232)" fill-opacity="1.0" />
+			<path d="M 351.886215103,545.687052034 L 351.886215103,545.687052034 A 155,155 0 0,0 371.932989981,587.314609 L 371.932989981,587.314609 A 155,155 0 0,1 351.886215103,545.687052034" stroke="none" stroke-width="1" fill="rgb(183,222,232)" fill-opacity="1.0" />
+			<path d="M 371.932989981,587.314609 L 169.504490274,725.328023225 A 400.0,400.0 0 0,0 250.604079257,812.732592987 L 403.359080712,621.183879783 A 155,155 0 0,1 371.932989981,587.314609" stroke="none" stroke-width="1" fill="rgb(183,222,232)" fill-opacity="1.0" />
+			<path d="M 403.359080712,621.183879783 L 250.604079257,812.732592987 A 400.0,400.0 0 0,0 353.863590253,872.349499458 L 443.372141223,644.28543104 A 155,155 0 0,1 403.359080712,621.183879783" stroke="none" stroke-width="1" fill="rgb(183,222,232)" fill-opacity="1.0" />
+			<path d="M 443.372141223,644.28543104 L 376.282021117,815.228269197 A 338.636973764,338.636973764 0 0,0 474.693627259,837.690076103 L 488.416835494,654.566588563 A 155,155 0 0,1 443.372141223,644.28543104" stroke="none" stroke-width="1" fill="rgb(183,222,232)" fill-opacity="1.0" />
+			<path d="M 488.416835494,654.566588563 L 470.107962565,898.881518872 A 400.0,400.0 0 0,0 589.008373583,889.971164873 L 534.490744763,651.113826388 A 155,155 0 0,1 488.416835494,654.566588563" stroke="none" stroke-width="1" fill="rgb(183,222,232)" fill-opacity="1.0" />
+			<path d="M 534.490744763,651.113826388 L 558.599526495,756.741300718 A 263.343881645,263.343881645 0 0,0 631.671940823,728.062491436 L 577.5,634.233937587 A 155,155 0 0,1 534.490744763,651.113826388" stroke="none" stroke-width="1" fill="rgb(183,222,232)" fill-opacity="1.0" />
+			<path d="M 577.5,634.233937587 L 700.0,846.410161514 A 400.0,400.0 0 0,0 793.220748732,772.069095108 L 613.623040134,605.426774354 A 155,155 0 0,1 577.5,634.233937587" stroke="none" stroke-width="1" fill="rgb(183,222,232)" fill-opacity="1.0" />
+			<path d="M 613.623040134,605.426774354 L 793.220748732,772.069095108 A 400.0,400.0 0 0,0 860.387547161,673.553495647 L 639.650174525,567.251979563 A 155,155 0 0,1 613.623040134,605.426774354" stroke="none" stroke-width="1" fill="rgb(183,222,232)" fill-opacity="1.0" />
+			<path d="M 639.650174525,567.251979563 L 805.101370882,646.92907638 A 338.636973764,338.636973764 0 0,0 834.854678557,550.471221981 L 653.268778065,523.101551257 A 155,155 0 0,1 639.650174525,567.251979563" stroke="none" stroke-width="1" fill="rgb(183,222,232)" fill-opacity="1.0" />
+
+			<path d="M 653.268778065,523.101551257 L 969.973871801,592.069019779 L 969.973871801,457.930980221 L 653.268778065,476.898448743 z" stroke="none" stroke-width="1" fill="white" fill-opacity="0.0" >				<title> BP1: BP1
+ Magnitude 1.0	Salience 3.0</title>
+			</path>
+			<text x="950.0" y="500.0" font-family="Arial" font-size="36" fill="black" style="text-anchor: middle; dominant-baseline: middle">BP1</text>
+			<line x1="653.268778065" y1="523.101551257" x2="969.694642457" y2="570.795076434" stroke="black" stroke-width="10"  />
+
+			<path d="M 653.268778065,476.898448743 L 969.973871801,457.930980221 L 930.435990556,329.752317397 L 639.650174525,432.748020437 z" stroke="none" stroke-width="1" fill="white" fill-opacity="0.0" >				<title> BP2: BP2
+ Magnitude 3.0	Salience 3.0</title>
+			</path>
+			<text x="930.007762604" y="367.360171515" font-family="Arial" font-size="36" fill="black" style="text-anchor: middle; dominant-baseline: middle">BP2</text>
+			<line x1="653.268778065" y1="476.898448743" x2="944.973871801" y2="432.930980221" stroke="black" stroke-width="2"  />
+
+			<path d="M 639.650174525,432.748020437 L 930.435990556,329.752317397 L 854.873342323,218.922268003 L 613.623040134,394.573225646 z" stroke="none" stroke-width="1" fill="white" fill-opacity="0.0" >				<title> BP3: BP3
+ Magnitude 0.0	Salience 3.0</title>
+			</path>
+			<text x="871.807448442" y="246.505973871" font-family="Arial" font-size="36" fill="black" style="text-anchor: middle; dominant-baseline: middle">BP3</text>
+			<line x1="639.650174525" y1="432.748020437" x2="905.435990556" y2="304.752317397" stroke="black" stroke-width="2"  />
+
+			<path d="M 613.623040134,394.573225646 L 854.873342323,218.922268003 L 750.0,135.288568297 L 577.5,365.766062413 z" stroke="none" stroke-width="1" fill="white" fill-opacity="0.0" >				<title> BP4: BP4
+ Magnitude 3.0	Salience 3.0</title>
+			</path>
+			<text x="780.570410836" y="148.175832889" font-family="Arial" font-size="36" fill="black" style="text-anchor: middle; dominant-baseline: middle">BP4</text>
+			<line x1="613.623040134" y1="394.573225646" x2="829.873342323" y2="193.922268003" stroke="black" stroke-width="2"  />
+
+			<path d="M 577.5,365.766062413 L 750.0,135.288568297 L 625.13442028,86.2824395182 L 534.490744763,348.886173612 z" stroke="none" stroke-width="1" fill="white" fill-opacity="0.0" >				<title> BP5: BP5
+ Magnitude 3.0	Salience 3.0</title>
+			</path>
+			<text x="664.403460965" y="81.1068131101" font-family="Arial" font-size="36" fill="black" style="text-anchor: middle; dominant-baseline: middle">BP5</text>
+			<line x1="577.5" y1="365.766062413" x2="725.0" y2="110.288568297" stroke="black" stroke-width="2"  />
+
+			<path d="M 534.490744763,348.886173612 L 625.13442028,86.2824395182 L 491.371457886,76.2582912685 L 488.416835494,345.433411437 z" stroke="none" stroke-width="1" fill="white" fill-opacity="0.0" >				<title> BP6: BP6
+ Magnitude 2.0	Salience 3.0</title>
+			</path>
+			<text x="533.628542114" y="51.2582912685" font-family="Arial" font-size="36" fill="black" style="text-anchor: middle; dominant-baseline: middle">BP6</text>
+			<line x1="534.490744763" y1="348.886173612" x2="600.13442028" y2="61.2824395182" stroke="black" stroke-width="2"  />
+
+			<path d="M 488.416835494,345.433411437 L 491.371457886,76.2582912685 L 360.596539035,106.10681311 L 443.372141223,355.71456896 z" stroke="none" stroke-width="1" fill="white" fill-opacity="0.0" >				<title> BP7: BP7
+ Magnitude 2.0	Salience 3.0</title>
+			</path>
+			<text x="399.86557972" y="61.2824395182" font-family="Arial" font-size="36" fill="black" style="text-anchor: middle; dominant-baseline: middle">BP7</text>
+			<line x1="488.416835494" y1="345.433411437" x2="466.371457886" y2="51.2582912685" stroke="black" stroke-width="2"  />
+
+			<path d="M 443.372141223,355.71456896 L 360.596539035,106.10681311 L 244.429589164,173.175832889 L 403.359080712,378.816120217 z" stroke="none" stroke-width="1" fill="white" fill-opacity="0.0" >				<title> SE1: SE1
+ Magnitude 1.0	Salience 3.0</title>
+			</path>
+			<text x="275.0" y="110.288568297" font-family="Arial" font-size="36" fill="black" style="text-anchor: middle; dominant-baseline: middle">SE1</text>
+			<line x1="443.372141223" y1="355.71456896" x2="326.463013426" y2="57.834969394" stroke="black" stroke-width="10"  />
+
+			<path d="M 403.359080712,378.816120217 L 244.429589164,173.175832889 L 153.192551558,271.505973871 L 371.932989981,412.685391 z" stroke="none" stroke-width="1" fill="white" fill-opacity="0.0" >				<title> SE2: SE2
+ Magnitude 0.0	Salience 3.0</title>
+			</path>
+			<text x="170.126657677" y="193.922268003" font-family="Arial" font-size="36" fill="black" style="text-anchor: middle; dominant-baseline: middle">SE2</text>
+			<line x1="403.359080712" y1="378.816120217" x2="219.429589164" y2="148.175832889" stroke="black" stroke-width="2"  />
+
+			<path d="M 371.932989981,412.685391 L 153.192551558,271.505973871 L 94.9922373962,392.360171515 L 351.886215103,454.312947966 z" stroke="none" stroke-width="1" fill="white" fill-opacity="0.0" >				<title> SE3: SE3
+ Magnitude 0.0	Salience 3.0</title>
+			</path>
+			<text x="94.5640094439" y="304.752317397" font-family="Arial" font-size="36" fill="black" style="text-anchor: middle; dominant-baseline: middle">SE3</text>
+			<line x1="371.932989981" y1="412.685391" x2="128.192551558" y2="246.505973871" stroke="black" stroke-width="2"  />
+
+			<path d="M 351.886215103,454.312947966 L 94.9922373962,392.360171515 L 75.0,525.0 L 345.0,500.0 z" stroke="none" stroke-width="1" fill="white" fill-opacity="0.0" >				<title> SE4: SE4
+ Magnitude 3.0	Salience 3.0</title>
+			</path>
+			<text x="55.0261281987" y="432.930980221" font-family="Arial" font-size="36" fill="black" style="text-anchor: middle; dominant-baseline: middle">SE4</text>
+			<line x1="351.886215103" y1="454.312947966" x2="69.9922373962" y2="367.360171515" stroke="black" stroke-width="2"  />
+
+			<path d="M 345.0,500.0 L 75.0,525.0 L 94.9922373962,657.639828485 L 351.886215103,545.687052034 z" stroke="none" stroke-width="1" fill="white" fill-opacity="0.0" >				<title> SE5: SE5
+ Magnitude 1.0	Salience 3.0</title>
+			</path>
+			<text x="55.0261281987" y="567.069019779" font-family="Arial" font-size="36" fill="black" style="text-anchor: middle; dominant-baseline: middle">SE5</text>
+			<line x1="345.0" y1="500.0" x2="50.0" y2="500.0" stroke="black" stroke-width="2"  />
+
+			<path d="M 351.886215103,545.687052034 L 94.9922373962,657.639828485 L 153.192551558,778.494026129 L 371.932989981,587.314609 z" stroke="none" stroke-width="1" fill="white" fill-opacity="0.0" >				<title> SE6: SE6
+ Magnitude 0.0	Salience 3.0</title>
+			</path>
+			<text x="94.5640094439" y="695.247682603" font-family="Arial" font-size="36" fill="black" style="text-anchor: middle; dominant-baseline: middle">SE6</text>
+			<line x1="351.886215103" y1="545.687052034" x2="69.9922373962" y2="632.639828485" stroke="black" stroke-width="2"  />
+
+			<path d="M 371.932989981,587.314609 L 153.192551558,778.494026129 L 244.429589164,876.824167111 L 403.359080712,621.183879783 z" stroke="none" stroke-width="1" fill="white" fill-opacity="0.0" >				<title> SE7: SE7
+ Magnitude 3.0	Salience 3.0</title>
+			</path>
+			<text x="170.126657677" y="806.077731997" font-family="Arial" font-size="36" fill="black" style="text-anchor: middle; dominant-baseline: middle">SE7</text>
+			<line x1="371.932989981" y1="587.314609" x2="128.192551558" y2="753.494026129" stroke="black" stroke-width="2"  />
+
+			<path d="M 403.359080712,621.183879783 L 244.429589164,876.824167111 L 360.596539035,943.89318689 L 443.372141223,644.28543104 z" stroke="none" stroke-width="1" fill="white" fill-opacity="0.0" >				<title> GP1: GP1
+ Magnitude 3.0	Salience 3.0</title>
+			</path>
+			<text x="275.0" y="889.711431703" font-family="Arial" font-size="36" fill="black" style="text-anchor: middle; dominant-baseline: middle">GP1</text>
+			<line x1="403.359080712" y1="621.183879783" x2="203.842344117" y2="871.369954172" stroke="black" stroke-width="10"  />
+
+			<path d="M 443.372141223,644.28543104 L 360.596539035,943.89318689 L 491.371457886,973.741708732 L 488.416835494,654.566588563 z" stroke="none" stroke-width="1" fill="white" fill-opacity="0.0" >				<title> GP2: GP2
+ Magnitude 2.0	Salience 3.0</title>
+			</path>
+			<text x="399.86557972" y="938.717560482" font-family="Arial" font-size="36" fill="black" style="text-anchor: middle; dominant-baseline: middle">GP2</text>
+			<line x1="443.372141223" y1="644.28543104" x2="335.596539035" y2="918.89318689" stroke="black" stroke-width="2"  />
+
+			<path d="M 488.416835494,654.566588563 L 491.371457886,973.741708732 L 625.13442028,963.717560482 L 534.490744763,651.113826388 z" stroke="none" stroke-width="1" fill="white" fill-opacity="0.0" >				<title> GP3: GP3
+ Magnitude 3.0	Salience 3.0</title>
+			</path>
+			<text x="533.628542114" y="948.741708732" font-family="Arial" font-size="36" fill="black" style="text-anchor: middle; dominant-baseline: middle">GP3</text>
+			<line x1="488.416835494" y1="654.566588563" x2="466.371457886" y2="948.741708732" stroke="black" stroke-width="2"  />
+
+			<path d="M 534.490744763,651.113826388 L 625.13442028,963.717560482 L 750.0,914.711431703 L 577.5,634.233937587 z" stroke="none" stroke-width="1" fill="white" fill-opacity="0.0" >				<title> GP4: GP4
+ Magnitude 1.0	Salience 3.0</title>
+			</path>
+			<text x="664.403460965" y="918.89318689" font-family="Arial" font-size="36" fill="black" style="text-anchor: middle; dominant-baseline: middle">GP4</text>
+			<line x1="534.490744763" y1="651.113826388" x2="600.13442028" y2="938.717560482" stroke="black" stroke-width="2"  />
+
+			<path d="M 577.5,634.233937587 L 750.0,914.711431703 L 854.873342323,831.077731997 L 613.623040134,605.426774354 z" stroke="none" stroke-width="1" fill="white" fill-opacity="0.0" >				<title> GP5: GP5
+ Magnitude 3.0	Salience 3.0</title>
+			</path>
+			<text x="780.570410836" y="851.824167111" font-family="Arial" font-size="36" fill="black" style="text-anchor: middle; dominant-baseline: middle">GP5</text>
+			<line x1="577.5" y1="634.233937587" x2="725.0" y2="889.711431703" stroke="black" stroke-width="2"  />
+
+			<path d="M 613.623040134,605.426774354 L 854.873342323,831.077731997 L 930.435990556,720.247682603 L 639.650174525,567.251979563 z" stroke="none" stroke-width="1" fill="white" fill-opacity="0.0" >				<title> GP6: GP6
+ Magnitude 3.0	Salience 3.0</title>
+			</path>
+			<text x="871.807448442" y="753.494026129" font-family="Arial" font-size="36" fill="black" style="text-anchor: middle; dominant-baseline: middle">GP6</text>
+			<line x1="613.623040134" y1="605.426774354" x2="829.873342323" y2="806.077731997" stroke="black" stroke-width="2"  />
+
+			<path d="M 639.650174525,567.251979563 L 930.435990556,720.247682603 L 969.973871801,592.069019779 L 653.268778065,523.101551257 z" stroke="none" stroke-width="1" fill="white" fill-opacity="0.0" >				<title> GP7: GP7
+ Magnitude 2.0	Salience 3.0</title>
+			</path>
+			<text x="930.007762604" y="632.639828485" font-family="Arial" font-size="36" fill="black" style="text-anchor: middle; dominant-baseline: middle">GP7</text>
+			<line x1="639.650174525" y1="567.251979563" x2="905.435990556" y2="695.247682603" stroke="black" stroke-width="2"  />
+			<circle cx="500" cy="500" r="155" stroke="black" stroke-width="5" fill="none"  />
+			<circle cx="500" cy="500" r="263.343881645" stroke="black" stroke-width="1" fill="none"  />
+			<circle cx="500" cy="500" r="338.636973764" stroke="black" stroke-width="1" fill="none"  />
+			<circle cx="500" cy="500" r="400.0" stroke="black" stroke-width="1" fill="none"  />
+		</svg>
+	</g>
+
+	<g transform="translate(1050)" >
+		<svg width="1000" height="1000" viewBox="0 0 1000 1000" preserveAspectRatio="xMidYMid meet"  version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">			<text x="500" y="500" font-family="Arial" font-size="36" fill="black" style="text-anchor: middle; dominant-baseline: middle">Negative</text>
+			<path d="M 653.268778065,523.101551257 L 653.268778065,523.101551257 A 155,155 0 0,0 653.268778065,476.898448743 L 653.268778065,476.898448743 A 155,155 0 0,1 653.268778065,523.101551257" stroke="none" stroke-width="1" fill="rgb(196,189,151)" fill-opacity="1.0" />
+			<path d="M 653.268778065,476.898448743 L 653.268778065,476.898448743 A 155,155 0 0,0 639.650174525,432.748020437 L 639.650174525,432.748020437 A 155,155 0 0,1 653.268778065,476.898448743" stroke="none" stroke-width="1" fill="rgb(196,189,151)" fill-opacity="1.0" />
+			<path d="M 639.650174525,432.748020437 L 860.387547161,326.446504353 A 400.0,400.0 0 0,0 793.220748732,227.930904892 L 613.623040134,394.573225646 A 155,155 0 0,1 639.650174525,432.748020437" stroke="none" stroke-width="1" fill="rgb(196,189,151)" fill-opacity="1.0" />
+			<path d="M 613.623040134,394.573225646 L 613.623040134,394.573225646 A 155,155 0 0,0 577.5,365.766062413 L 577.5,365.766062413 A 155,155 0 0,1 613.623040134,394.573225646" stroke="none" stroke-width="1" fill="rgb(196,189,151)" fill-opacity="1.0" />
+			<path d="M 577.5,365.766062413 L 577.5,365.766062413 A 155,155 0 0,0 534.490744763,348.886173612 L 534.490744763,348.886173612 A 155,155 0 0,1 577.5,365.766062413" stroke="none" stroke-width="1" fill="rgb(196,189,151)" fill-opacity="1.0" />
+			<path d="M 534.490744763,348.886173612 L 534.490744763,348.886173612 A 155,155 0 0,0 488.416835494,345.433411437 L 488.416835494,345.433411437 A 155,155 0 0,1 534.490744763,348.886173612" stroke="none" stroke-width="1" fill="rgb(196,189,151)" fill-opacity="1.0" />
+			<path d="M 488.416835494,345.433411437 L 488.416835494,345.433411437 A 155,155 0 0,0 443.372141223,355.71456896 L 443.372141223,355.71456896 A 155,155 0 0,1 488.416835494,345.433411437" stroke="none" stroke-width="1" fill="rgb(196,189,151)" fill-opacity="1.0" />
+			<path d="M 443.372141223,355.71456896 L 403.789676519,254.86009371 A 263.343881645,263.343881645 0 0,0 335.807775412,294.109462614 L 403.359080712,378.816120217 A 155,155 0 0,1 443.372141223,355.71456896" stroke="none" stroke-width="1" fill="rgb(196,189,151)" fill-opacity="1.0" />
+			<path d="M 403.359080712,378.816120217 L 288.863300326,235.242952784 A 338.636973764,338.636973764 0 0,0 220.205001859,309.239000277 L 371.932989981,412.685391 A 155,155 0 0,1 403.359080712,378.816120217" stroke="none" stroke-width="1" fill="rgb(196,189,151)" fill-opacity="1.0" />
+			<path d="M 371.932989981,412.685391 L 371.932989981,412.685391 A 155,155 0 0,0 351.886215103,454.312947966 L 351.886215103,454.312947966 A 155,155 0 0,1 371.932989981,412.685391" stroke="none" stroke-width="1" fill="rgb(196,189,151)" fill-opacity="1.0" />
+			<path d="M 351.886215103,454.312947966 L 351.886215103,454.312947966 A 155,155 0 0,0 345.0,500.0 L 345.0,500.0 A 155,155 0 0,1 351.886215103,454.312947966" stroke="none" stroke-width="1" fill="rgb(196,189,151)" fill-opacity="1.0" />
+			<path d="M 345.0,500.0 L 345.0,500.0 A 155,155 0 0,0 351.886215103,545.687052034 L 351.886215103,545.687052034 A 155,155 0 0,1 345.0,500.0" stroke="none" stroke-width="1" fill="rgb(196,189,151)" fill-opacity="1.0" />
+			<path d="M 351.886215103,545.687052034 L 351.886215103,545.687052034 A 155,155 0 0,0 371.932989981,587.314609 L 371.932989981,587.314609 A 155,155 0 0,1 351.886215103,545.687052034" stroke="none" stroke-width="1" fill="rgb(196,189,151)" fill-opacity="1.0" />
+			<path d="M 371.932989981,587.314609 L 169.504490274,725.328023225 A 400.0,400.0 0 0,0 250.604079257,812.732592987 L 403.359080712,621.183879783 A 155,155 0 0,1 371.932989981,587.314609" stroke="none" stroke-width="1" fill="rgb(196,189,151)" fill-opacity="1.0" />
+			<path d="M 403.359080712,621.183879783 L 250.604079257,812.732592987 A 400.0,400.0 0 0,0 353.863590253,872.349499458 L 443.372141223,644.28543104 A 155,155 0 0,1 403.359080712,621.183879783" stroke="none" stroke-width="1" fill="rgb(196,189,151)" fill-opacity="1.0" />
+			<path d="M 443.372141223,644.28543104 L 443.372141223,644.28543104 A 155,155 0 0,0 488.416835494,654.566588563 L 488.416835494,654.566588563 A 155,155 0 0,1 443.372141223,644.28543104" stroke="none" stroke-width="1" fill="rgb(196,189,151)" fill-opacity="1.0" />
+			<path d="M 488.416835494,654.566588563 L 488.416835494,654.566588563 A 155,155 0 0,0 534.490744763,651.113826388 L 534.490744763,651.113826388 A 155,155 0 0,1 488.416835494,654.566588563" stroke="none" stroke-width="1" fill="rgb(196,189,151)" fill-opacity="1.0" />
+			<path d="M 534.490744763,651.113826388 L 575.353815674,830.146637819 A 338.636973764,338.636973764 0 0,0 669.318486882,793.26822194 L 577.5,634.233937587 A 155,155 0 0,1 534.490744763,651.113826388" stroke="none" stroke-width="1" fill="rgb(196,189,151)" fill-opacity="1.0" />
+			<path d="M 577.5,634.233937587 L 577.5,634.233937587 A 155,155 0 0,0 613.623040134,605.426774354 L 613.623040134,605.426774354 A 155,155 0 0,1 577.5,634.233937587" stroke="none" stroke-width="1" fill="rgb(196,189,151)" fill-opacity="1.0" />
+			<path d="M 613.623040134,605.426774354 L 613.623040134,605.426774354 A 155,155 0 0,0 639.650174525,567.251979563 L 639.650174525,567.251979563 A 155,155 0 0,1 613.623040134,605.426774354" stroke="none" stroke-width="1" fill="rgb(196,189,151)" fill-opacity="1.0" />
+			<path d="M 639.650174525,567.251979563 L 860.387547161,673.553495647 A 400.0,400.0 0 0,0 895.53233049,559.61690647 L 653.268778065,523.101551257 A 155,155 0 0,1 639.650174525,567.251979563" stroke="none" stroke-width="1" fill="rgb(196,189,151)" fill-opacity="1.0" />
+
+			<path d="M 653.268778065,523.101551257 L 969.973871801,592.069019779 L 969.973871801,457.930980221 L 653.268778065,476.898448743 z" stroke="none" stroke-width="1" fill="white" fill-opacity="0.0" >				<title> BP1: BP1
+ Magnitude 0.0	Salience 3.0</title>
+			</path>
+			<text x="950.0" y="500.0" font-family="Arial" font-size="36" fill="black" style="text-anchor: middle; dominant-baseline: middle">BP1</text>
+			<line x1="653.268778065" y1="523.101551257" x2="969.694642457" y2="570.795076434" stroke="black" stroke-width="10"  />
+
+			<path d="M 653.268778065,476.898448743 L 969.973871801,457.930980221 L 930.435990556,329.752317397 L 639.650174525,432.748020437 z" stroke="none" stroke-width="1" fill="white" fill-opacity="0.0" >				<title> BP2: BP2
+ Magnitude 0.0	Salience 3.0</title>
+			</path>
+			<text x="930.007762604" y="367.360171515" font-family="Arial" font-size="36" fill="black" style="text-anchor: middle; dominant-baseline: middle">BP2</text>
+			<line x1="653.268778065" y1="476.898448743" x2="944.973871801" y2="432.930980221" stroke="black" stroke-width="2"  />
+
+			<path d="M 639.650174525,432.748020437 L 930.435990556,329.752317397 L 854.873342323,218.922268003 L 613.623040134,394.573225646 z" stroke="none" stroke-width="1" fill="white" fill-opacity="0.0" >				<title> BP3: BP3
+ Magnitude 3.0	Salience 3.0</title>
+			</path>
+			<text x="871.807448442" y="246.505973871" font-family="Arial" font-size="36" fill="black" style="text-anchor: middle; dominant-baseline: middle">BP3</text>
+			<line x1="639.650174525" y1="432.748020437" x2="905.435990556" y2="304.752317397" stroke="black" stroke-width="2"  />
+
+			<path d="M 613.623040134,394.573225646 L 854.873342323,218.922268003 L 750.0,135.288568297 L 577.5,365.766062413 z" stroke="none" stroke-width="1" fill="white" fill-opacity="0.0" >				<title> BP4: BP4
+ Magnitude 0.0	Salience 3.0</title>
+			</path>
+			<text x="780.570410836" y="148.175832889" font-family="Arial" font-size="36" fill="black" style="text-anchor: middle; dominant-baseline: middle">BP4</text>
+			<line x1="613.623040134" y1="394.573225646" x2="829.873342323" y2="193.922268003" stroke="black" stroke-width="2"  />
+
+			<path d="M 577.5,365.766062413 L 750.0,135.288568297 L 625.13442028,86.2824395182 L 534.490744763,348.886173612 z" stroke="none" stroke-width="1" fill="white" fill-opacity="0.0" >				<title> BP5: BP5
+ Magnitude 0.0	Salience 3.0</title>
+			</path>
+			<text x="664.403460965" y="81.1068131101" font-family="Arial" font-size="36" fill="black" style="text-anchor: middle; dominant-baseline: middle">BP5</text>
+			<line x1="577.5" y1="365.766062413" x2="725.0" y2="110.288568297" stroke="black" stroke-width="2"  />
+
+			<path d="M 534.490744763,348.886173612 L 625.13442028,86.2824395182 L 491.371457886,76.2582912685 L 488.416835494,345.433411437 z" stroke="none" stroke-width="1" fill="white" fill-opacity="0.0" >				<title> BP6: BP6
+ Magnitude 0.0	Salience 3.0</title>
+			</path>
+			<text x="533.628542114" y="51.2582912685" font-family="Arial" font-size="36" fill="black" style="text-anchor: middle; dominant-baseline: middle">BP6</text>
+			<line x1="534.490744763" y1="348.886173612" x2="600.13442028" y2="61.2824395182" stroke="black" stroke-width="2"  />
+
+			<path d="M 488.416835494,345.433411437 L 491.371457886,76.2582912685 L 360.596539035,106.10681311 L 443.372141223,355.71456896 z" stroke="none" stroke-width="1" fill="white" fill-opacity="0.0" >				<title> BP7: BP7
+ Magnitude 0.0	Salience 3.0</title>
+			</path>
+			<text x="399.86557972" y="61.2824395182" font-family="Arial" font-size="36" fill="black" style="text-anchor: middle; dominant-baseline: middle">BP7</text>
+			<line x1="488.416835494" y1="345.433411437" x2="466.371457886" y2="51.2582912685" stroke="black" stroke-width="2"  />
+
+			<path d="M 443.372141223,355.71456896 L 360.596539035,106.10681311 L 244.429589164,173.175832889 L 403.359080712,378.816120217 z" stroke="none" stroke-width="1" fill="white" fill-opacity="0.0" >				<title> SE1: SE1
+ Magnitude 1.0	Salience 3.0</title>
+			</path>
+			<text x="275.0" y="110.288568297" font-family="Arial" font-size="36" fill="black" style="text-anchor: middle; dominant-baseline: middle">SE1</text>
+			<line x1="443.372141223" y1="355.71456896" x2="326.463013426" y2="57.834969394" stroke="black" stroke-width="10"  />
+
+			<path d="M 403.359080712,378.816120217 L 244.429589164,173.175832889 L 153.192551558,271.505973871 L 371.932989981,412.685391 z" stroke="none" stroke-width="1" fill="white" fill-opacity="0.0" >				<title> SE2: SE2
+ Magnitude 2.0	Salience 3.0</title>
+			</path>
+			<text x="170.126657677" y="193.922268003" font-family="Arial" font-size="36" fill="black" style="text-anchor: middle; dominant-baseline: middle">SE2</text>
+			<line x1="403.359080712" y1="378.816120217" x2="219.429589164" y2="148.175832889" stroke="black" stroke-width="2"  />
+
+			<path d="M 371.932989981,412.685391 L 153.192551558,271.505973871 L 94.9922373962,392.360171515 L 351.886215103,454.312947966 z" stroke="none" stroke-width="1" fill="white" fill-opacity="0.0" >				<title> SE3: SE3
+ Magnitude 0.0	Salience 3.0</title>
+			</path>
+			<text x="94.5640094439" y="304.752317397" font-family="Arial" font-size="36" fill="black" style="text-anchor: middle; dominant-baseline: middle">SE3</text>
+			<line x1="371.932989981" y1="412.685391" x2="128.192551558" y2="246.505973871" stroke="black" stroke-width="2"  />
+
+			<path d="M 351.886215103,454.312947966 L 94.9922373962,392.360171515 L 75.0,525.0 L 345.0,500.0 z" stroke="none" stroke-width="1" fill="white" fill-opacity="0.0" >				<title> SE4: SE4
+ Magnitude 0.0	Salience 3.0</title>
+			</path>
+			<text x="55.0261281987" y="432.930980221" font-family="Arial" font-size="36" fill="black" style="text-anchor: middle; dominant-baseline: middle">SE4</text>
+			<line x1="351.886215103" y1="454.312947966" x2="69.9922373962" y2="367.360171515" stroke="black" stroke-width="2"  />
+
+			<path d="M 345.0,500.0 L 75.0,525.0 L 94.9922373962,657.639828485 L 351.886215103,545.687052034 z" stroke="none" stroke-width="1" fill="white" fill-opacity="0.0" >				<title> SE5: SE5
+ Magnitude 0.0	Salience 3.0</title>
+			</path>
+			<text x="55.0261281987" y="567.069019779" font-family="Arial" font-size="36" fill="black" style="text-anchor: middle; dominant-baseline: middle">SE5</text>
+			<line x1="345.0" y1="500.0" x2="50.0" y2="500.0" stroke="black" stroke-width="2"  />
+
+			<path d="M 351.886215103,545.687052034 L 94.9922373962,657.639828485 L 153.192551558,778.494026129 L 371.932989981,587.314609 z" stroke="none" stroke-width="1" fill="white" fill-opacity="0.0" >				<title> SE6: SE6
+ Magnitude 0.0	Salience 3.0</title>
+			</path>
+			<text x="94.5640094439" y="695.247682603" font-family="Arial" font-size="36" fill="black" style="text-anchor: middle; dominant-baseline: middle">SE6</text>
+			<line x1="351.886215103" y1="545.687052034" x2="69.9922373962" y2="632.639828485" stroke="black" stroke-width="2"  />
+
+			<path d="M 371.932989981,587.314609 L 153.192551558,778.494026129 L 244.429589164,876.824167111 L 403.359080712,621.183879783 z" stroke="none" stroke-width="1" fill="white" fill-opacity="0.0" >				<title> SE7: SE7
+ Magnitude 3.0	Salience 3.0</title>
+			</path>
+			<text x="170.126657677" y="806.077731997" font-family="Arial" font-size="36" fill="black" style="text-anchor: middle; dominant-baseline: middle">SE7</text>
+			<line x1="371.932989981" y1="587.314609" x2="128.192551558" y2="753.494026129" stroke="black" stroke-width="2"  />
+
+			<path d="M 403.359080712,621.183879783 L 244.429589164,876.824167111 L 360.596539035,943.89318689 L 443.372141223,644.28543104 z" stroke="none" stroke-width="1" fill="white" fill-opacity="0.0" >				<title> GP1: GP1
+ Magnitude 3.0	Salience 3.0</title>
+			</path>
+			<text x="275.0" y="889.711431703" font-family="Arial" font-size="36" fill="black" style="text-anchor: middle; dominant-baseline: middle">GP1</text>
+			<line x1="403.359080712" y1="621.183879783" x2="203.842344117" y2="871.369954172" stroke="black" stroke-width="10"  />
+
+			<path d="M 443.372141223,644.28543104 L 360.596539035,943.89318689 L 491.371457886,973.741708732 L 488.416835494,654.566588563 z" stroke="none" stroke-width="1" fill="white" fill-opacity="0.0" >				<title> GP2: GP2
+ Magnitude 0.0	Salience 3.0</title>
+			</path>
+			<text x="399.86557972" y="938.717560482" font-family="Arial" font-size="36" fill="black" style="text-anchor: middle; dominant-baseline: middle">GP2</text>
+			<line x1="443.372141223" y1="644.28543104" x2="335.596539035" y2="918.89318689" stroke="black" stroke-width="2"  />
+
+			<path d="M 488.416835494,654.566588563 L 491.371457886,973.741708732 L 625.13442028,963.717560482 L 534.490744763,651.113826388 z" stroke="none" stroke-width="1" fill="white" fill-opacity="0.0" >				<title> GP3: GP3
+ Magnitude 0.0	Salience 3.0</title>
+			</path>
+			<text x="533.628542114" y="948.741708732" font-family="Arial" font-size="36" fill="black" style="text-anchor: middle; dominant-baseline: middle">GP3</text>
+			<line x1="488.416835494" y1="654.566588563" x2="466.371457886" y2="948.741708732" stroke="black" stroke-width="2"  />
+
+			<path d="M 534.490744763,651.113826388 L 625.13442028,963.717560482 L 750.0,914.711431703 L 577.5,634.233937587 z" stroke="none" stroke-width="1" fill="white" fill-opacity="0.0" >				<title> GP4: GP4
+ Magnitude 2.0	Salience 3.0</title>
+			</path>
+			<text x="664.403460965" y="918.89318689" font-family="Arial" font-size="36" fill="black" style="text-anchor: middle; dominant-baseline: middle">GP4</text>
+			<line x1="534.490744763" y1="651.113826388" x2="600.13442028" y2="938.717560482" stroke="black" stroke-width="2"  />
+
+			<path d="M 577.5,634.233937587 L 750.0,914.711431703 L 854.873342323,831.077731997 L 613.623040134,605.426774354 z" stroke="none" stroke-width="1" fill="white" fill-opacity="0.0" >				<title> GP5: GP5
+ Magnitude 0.0	Salience 3.0</title>
+			</path>
+			<text x="780.570410836" y="851.824167111" font-family="Arial" font-size="36" fill="black" style="text-anchor: middle; dominant-baseline: middle">GP5</text>
+			<line x1="577.5" y1="634.233937587" x2="725.0" y2="889.711431703" stroke="black" stroke-width="2"  />
+
+			<path d="M 613.623040134,605.426774354 L 854.873342323,831.077731997 L 930.435990556,720.247682603 L 639.650174525,567.251979563 z" stroke="none" stroke-width="1" fill="white" fill-opacity="0.0" >				<title> GP6: GP6
+ Magnitude 0.0	Salience 3.0</title>
+			</path>
+			<text x="871.807448442" y="753.494026129" font-family="Arial" font-size="36" fill="black" style="text-anchor: middle; dominant-baseline: middle">GP6</text>
+			<line x1="613.623040134" y1="605.426774354" x2="829.873342323" y2="806.077731997" stroke="black" stroke-width="2"  />
+
+			<path d="M 639.650174525,567.251979563 L 930.435990556,720.247682603 L 969.973871801,592.069019779 L 653.268778065,523.101551257 z" stroke="none" stroke-width="1" fill="white" fill-opacity="0.0" >				<title> GP7: GP7
+ Magnitude 3.0	Salience 3.0</title>
+			</path>
+			<text x="930.007762604" y="632.639828485" font-family="Arial" font-size="36" fill="black" style="text-anchor: middle; dominant-baseline: middle">GP7</text>
+			<line x1="639.650174525" y1="567.251979563" x2="905.435990556" y2="695.247682603" stroke="black" stroke-width="2"  />
+			<circle cx="500" cy="500" r="155" stroke="black" stroke-width="5" fill="none"  />
+			<circle cx="500" cy="500" r="263.343881645" stroke="black" stroke-width="1" fill="none"  />
+			<circle cx="500" cy="500" r="338.636973764" stroke="black" stroke-width="1" fill="none"  />
+			<circle cx="500" cy="500" r="400.0" stroke="black" stroke-width="1" fill="none"  />
+		</svg>
+	</g>
+
+	<g transform="translate(2050)" >
+		<svg width="250" height="1000" viewBox="0 0 250 1000" preserveAspectRatio="xMidYMid meet"  version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">			<text x="125" y="25" font-family="Arial" font-size="36" fill="black" style="text-anchor: middle; dominant-baseline: middle">Magnitude:</text>
+			<line x1="148.101551257" y1="346.731221935" x2="192.069019779" y2="55.0261281987" stroke="black" stroke-width="2"  />
+			<line x1="57.9309802207" y1="55.0261281987" x2="101.898448743" y2="346.731221935" stroke="black" stroke-width="2"  />
+			<path d="M 155.712652196,348.073264383 A 155,155 0 0,0 94.2873478041,348.073264383" stroke="black" stroke-width="5" fill="none"  />
+			<text x="78.5793845361" y="348.073264383" font-family="Arial" font-size="36" fill="black" style="text-anchor: middle; dominant-baseline: middle">0</text>
+			<path d="M 177.180574483,241.877572368 A 263.343881645,263.343881645 0 0,0 72.8194255168,241.877572368" stroke="black" stroke-width="1" fill="none"  />
+			<text x="192.888537751" y="241.877572368" font-family="Arial" font-size="36" fill="black" style="text-anchor: middle; dominant-baseline: middle">1</text>
+			<path d="M 192.099610296,168.077354948 A 338.636973764,338.636973764 0 0,0 57.900389704,168.077354948" stroke="black" stroke-width="1" fill="none"  />
+			<text x="42.192426436" y="168.077354948" font-family="Arial" font-size="36" fill="black" style="text-anchor: middle; dominant-baseline: middle">2</text>
+			<path d="M 204.25845728,107.931004861 A 400.0,400.0 0 0,0 45.7415427202,107.931004861" stroke="black" stroke-width="1" fill="none"  />
+			<text x="219.966420548" y="107.931004861" font-family="Arial" font-size="36" fill="black" style="text-anchor: middle; dominant-baseline: middle">3</text>
+			<line x1="101.898448743" y1="653.268778065" x2="57.9309802207" y2="944.973871801" stroke="black" stroke-width="2"  />
+			<line x1="192.069019779" y1="944.973871801" x2="148.101551257" y2="653.268778065" stroke="black" stroke-width="2"  />
+			<path d="M 94.2873478041,651.926735617 A 155,155 0 0,0 155.712652196,651.926735617" stroke="black" stroke-width="5" fill="none"  />
+			<text x="171.420615464" y="651.926735617" font-family="Arial" font-size="36" fill="black" style="text-anchor: middle; dominant-baseline: middle">0</text>
+			<path d="M 72.8194255168,758.122427632 A 263.343881645,263.343881645 0 0,0 177.180574483,758.122427632" stroke="black" stroke-width="1" fill="none"  />
+			<text x="57.1114622489" y="758.122427632" font-family="Arial" font-size="36" fill="black" style="text-anchor: middle; dominant-baseline: middle">1</text>
+			<path d="M 57.900389704,831.922645052 A 338.636973764,338.636973764 0 0,0 192.099610296,831.922645052" stroke="black" stroke-width="1" fill="none"  />
+			<text x="207.807573564" y="831.922645052" font-family="Arial" font-size="36" fill="black" style="text-anchor: middle; dominant-baseline: middle">2</text>
+			<path d="M 45.7415427202,892.068995139 A 400.0,400.0 0 0,0 204.25845728,892.068995139" stroke="black" stroke-width="1" fill="none"  />
+			<text x="30.0335794523" y="892.068995139" font-family="Arial" font-size="36" fill="black" style="text-anchor: middle; dominant-baseline: middle">3</text>
+		</svg>
+	</g>
+</svg>
