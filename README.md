@@ -13,7 +13,14 @@ python makecharts.py [-c <config.cfg>] [-d <data.csv>] [-s <outfile>]
 
 Example: ```python makecharts.py -c examples/amoeba1.cfg -d examples/maji.csv -s maji```
 
-Data files should be csvs with 5 columns. See an [example](http://github.com/fgassert/IDAM_charts/blob/master/examples/maji.csv).
+Data files should be csvs with 5 columns:
+ - label
+ - chart 1 bar height (magnitude)
+ - chart 1 bar width (salience)
+ - chart 2 bar height (magnitude)
+ - chart 2 bar width (salience)
+
+See an [example](http://github.com/fgassert/IDAM_charts/blob/master/examples/maji.csv).
 
 ## Config options
 
