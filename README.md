@@ -22,4 +22,4 @@ See [example config](http://raw.githubusercontent.com/fgassert/IDAM_charts/maste
 
 Example output:
 
-![maji.svg](http://raw.githubusercontent.com/fgassert/IDAM_charts/master/examples/maji.svg).
+![maji.svg](http://rawgit.com/fgassert/IDAM_charts/master/examples/maji.svg).
